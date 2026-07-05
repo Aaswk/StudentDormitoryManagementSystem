@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\auth.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\auth.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\file.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\file.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\admin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\admin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\auth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\auth.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\manager.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\structs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\structs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\student.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83BF9F25-7F86-4719-8B19-8757AF92E8E2}|SDMS\\SDMS.vcxproj|solutionrelative:SDMS\\student.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "student.c",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\student.c",
+              "RelativeDocumentMoniker": "SDMS\\student.c",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\student.c",
+              "RelativeToolTip": "SDMS\\student.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-02T16:42:56.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\main.c",
+              "RelativeDocumentMoniker": "SDMS\\main.c",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\main.c",
+              "RelativeToolTip": "SDMS\\main.c",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAI0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-02T16:42:48.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "admin.c",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\admin.c",
+              "RelativeDocumentMoniker": "SDMS\\admin.c",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\admin.c",
+              "RelativeToolTip": "SDMS\\admin.c",
+              "ViewState": "AgIAALYEAAAAAAAAAAAAAJMCAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-02T16:42:45.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "utils.h",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\utils.h",
+              "RelativeDocumentMoniker": "SDMS\\utils.h",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\utils.h",
+              "RelativeToolTip": "SDMS\\utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T16:42:44.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.h",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\student.h",
+              "RelativeDocumentMoniker": "SDMS\\student.h",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\student.h",
+              "RelativeToolTip": "SDMS\\student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T16:42:43.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "structs.h",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\structs.h",
+              "RelativeDocumentMoniker": "SDMS\\structs.h",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\structs.h",
+              "RelativeToolTip": "SDMS\\structs.h",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T16:39:10.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "auth.c",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\auth.c",
+              "RelativeDocumentMoniker": "SDMS\\auth.c",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\auth.c",
+              "RelativeToolTip": "SDMS\\auth.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-02T16:33:26.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "utils.c",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\utils.c",
+              "RelativeDocumentMoniker": "SDMS\\utils.c",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\utils.c",
+              "RelativeToolTip": "SDMS\\utils.c",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-02T14:49:15.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "manager.h",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\manager.h",
+              "RelativeDocumentMoniker": "SDMS\\manager.h",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\manager.h",
+              "RelativeToolTip": "SDMS\\manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T16:38:35.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "manager.c",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\manager.c",
+              "RelativeDocumentMoniker": "SDMS\\manager.c",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\manager.c",
+              "RelativeToolTip": "SDMS\\manager.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAGwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-02T16:38:43.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin.h",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\admin.h",
+              "RelativeDocumentMoniker": "SDMS\\admin.h",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\admin.h",
+              "RelativeToolTip": "SDMS\\admin.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T16:42:37.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "file.c",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\file.c",
+              "RelativeDocumentMoniker": "SDMS\\file.c",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\file.c",
+              "RelativeToolTip": "SDMS\\file.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-02T16:38:18.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "file.h",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\file.h",
+              "RelativeDocumentMoniker": "SDMS\\file.h",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\file.h",
+              "RelativeToolTip": "SDMS\\file.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T16:38:09.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auth.h",
+              "DocumentMoniker": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\auth.h",
+              "RelativeDocumentMoniker": "SDMS\\auth.h",
+              "ToolTip": "D:\\code_\\StudentDormitoryManagementSystem\\SDMS\\SDMS\\auth.h",
+              "RelativeToolTip": "SDMS\\auth.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-02T16:33:14.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
